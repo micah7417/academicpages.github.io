@@ -9,6 +9,13 @@ redirect_from:
 ---
 
 <iframe height="400px" width="100%" src="https://repl.it/@BaileyScott/number-game?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
 <br>
+
+<iframe src="https://scratch.mit.edu/projects/333062693/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+<br>
+
+<iframe src="https://scratch.mit.edu/projects/331932414/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 
