@@ -8,13 +8,6 @@ date: 2014-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/02vx4","geo":"","time":"2004-01-01 2019-10-24"},{"keyword":"/m/0jm_","geo":"","time":"2004-01-01 2019-10-24"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F02vx4,%2Fm%2F0jm_","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
 ======
